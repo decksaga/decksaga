@@ -18,9 +18,7 @@ Open to remote work and interesting projects.
 
 ### Featured
 
-<a href="https://github.com/decksaga/market-pulse-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=decksaga&repo=market-pulse-mcp&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=6ee7b7&text_color=c9d1d9" />
-</a>
+📊 **[market-pulse-mcp](https://github.com/decksaga/market-pulse-mcp)** — Real-time crypto, forex & sentiment data for Claude via MCP. Free APIs, no keys needed.
 
 ---
 
